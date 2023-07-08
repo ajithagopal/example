@@ -1,21 +1,33 @@
 const students = [
   {
-    name: "John",
-    chemistryMarks: 85,
-    biologyMarks: 90,
-    dob: "15-11-1998"
+    name: "Leo Messi",
+    dob: "31-12-1995",
+    biology: 95,
+    chemistry: 91,
   },
   {
-    name: "Sarah",
-    chemistryMarks: 90,
-    biologyMarks: 95,
-    dob: "20-10-1999"
+    name: "Cristiano Ronaldo",
+    dob: "31-05-1992",
+    biology: 90,
+    chemistry: 81,
   },
   {
-    name: "Alice",
-    chemistryMarks: 85,
-    biologyMarks: 85,
-    dob: "15-11-1998"
+    name: "Virat Kohli",
+    dob: "31-12-1995",
+    biology: 95,
+    chemistry: 96,
+  },
+  {
+    name: "Rohit Sharma",
+    dob: "31-12-1995",
+    biology: 85,
+    chemistry: 86,
+  },
+  {
+    name: "Viswanathan Anand",
+    dob: "12-12-1994",
+    biology: 99,
+    chemistry: 10,
   },
   
 ];
